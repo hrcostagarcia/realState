@@ -1,0 +1,22 @@
+{
+  "name": "real_state",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrcostagarcia/realState.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrcostagarcia/realState/issues"
+  },
+  "homepage": "https://github.com/hrcostagarcia/realState#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
